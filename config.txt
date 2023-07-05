@@ -3,7 +3,7 @@
 # 公众号配置
 # 公众号appId
 "app_id": "wx970ff8eff72695ef",
-# 公众号appSecret
+# 公众号appSecret 
 "app_secret": "7e56e3b0c8dd24c642a6039ea1d217f0",
 # 模板消息id
 "template_id": "si-aHWDnTiYPXGpes1WN2PNKK0w1HCJHdnWF2iwVaZo",
@@ -14,7 +14,7 @@
 # 所在省份   不加省，河北省写河北
 "province": "上海",
 # 所在城市   不加市，石家庄市写石家庄
-"city": "上海",
+"city": " 济南",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "粥粥", "birthday": "2003-02-20"},
 # 生日2
